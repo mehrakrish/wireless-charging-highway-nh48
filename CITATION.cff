@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Lane wander, utilization and local supply in wireless-charging highways: code and data"
+authors:
+  - family-names: Mehra
+    given-names: Krish
+    affiliation: "Department of Electronics and Communication Engineering, National Institute of Technology Delhi"
+    email: mehrakrish2609@gmail.com
+  - family-names: Singh
+    given-names: Mahesh Kumar
+    affiliation: "Department of Electronics and Communication Engineering, National Institute of Technology Delhi"
+license: MIT
+repository-code: "https://github.com/mehrakrish/wireless-charging-highway-nh48"
+version: 1.0.0
+date-released: 2026-10-17
+keywords:
+  - dynamic wireless power transfer
+  - electric road systems
+  - lane wander
+  - techno-economic planning
+  - solar-plus-storage
+  - India
+preferred-citation:
+  type: article
+  title: "Lane Wander, Utilization and Local Supply in Wireless-Charging Highways: A Physics-Informed Planning Study of an Indian National Highway"
+  authors:
+    - family-names: Mehra
+      given-names: Krish
+    - family-names: Singh
+      given-names: Mahesh Kumar
+  year: 2026
+  notes: "Manuscript submitted for review."

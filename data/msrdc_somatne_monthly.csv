@@ -1,0 +1,14 @@
+# MSRDC Monthly Fee Statement, NH-48 (Km 20+400 to 131+200), Somatne Phata plaza (Ch. 30+050). Tolled vehicles per month.
+# Categories D, E, G are zero in all files. Direction not stated (assumed both directions combined; inference).
+# Source files: https://msrdc.in/Site/Upload/GR/ (Monthly Toll Collection Data NH 48 <month>.pdf), read Oct 2026.
+month,days,car_jeep,lcv,bus,mav,total
+2025-08,31,365993,28238,38952,55692,488875
+2025-09,30,328901,29578,39825,58282,456586
+2025-10,31,360642,28448,40508,60489,490087
+2025-11,30,378171,31961,43586,67273,520991
+2025-12,31,398648,33217,45352,70003,547220
+2026-01,31,369464,31091,43389,70866,514810
+2026-02,28,330996,29832,40313,69006,470147
+2026-03,31,356872,32651,43394,64725,497642
+2026-04,30,367952,30847,40801,59964,499564
+2026-05,31,414066,32198,41883,58994,547141
